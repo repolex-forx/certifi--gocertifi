@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/certifi/gocertifi/commit/431795d63e8d175f8ce1325a674698adf81e96a7",
       "git:hexsha": "431795d63e8d175f8ce1325a674698adf81e96a7",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/certifi/gocertifi/commit/f1816508e036f5cb705fee34af63f2d91954f300",
