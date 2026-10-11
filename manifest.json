@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "certifi",
+  "repo": "gocertifi",
+  "versions": [
+    {
+      "commit": "431795d63e8d175f8ce1325a674698adf81e96a7",
+      "parsed_at": "2026-10-11T21:08:52.341118+00:00",
+      "filetree": "filetree/431795d63e8d175f8ce1325a674698adf81e96a7.nq.gz",
+      "blobs": [
+        "blob/e55167e9a8824a95ca45100524c8d30c3edd1957.nq.gz",
+        "blob/372fd9f4b296b2ab4e4ac7422dc2cda7919f67a1.nq.gz",
+        "blob/14e2f777f6c395e7e04ab4aa306bbcc4b0c1120e.nq.gz",
+        "blob/955f7f25b94d4c6ca64b5b5aee88006aeab1e557.nq.gz",
+        "blob/ee7caafd7ca1c1100e5852b285e21e1451827376.nq.gz",
+        "blob/70be286dc3aaffe52bc374de703cebcfd6626011.nq.gz",
+        "blob/9c860301dc8da06b990f1310b66a9da99be15bb9.nq.gz",
+        "blob/6d045a2aeacca3e6243ba4dd3ad8299c3219152e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
